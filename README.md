@@ -16,19 +16,19 @@ Date: The date of the campaign data.
 
 Spend [USD]: The advertising spend in USD.
 
-# of Impressions: The number of times the advertisement was shown.
+Number of Impressions: The number of times the advertisement was shown.
 
 Reach: The unique number of users who saw the advertisement.
 
-# of Website Clicks: The number of clicks on the website.
+Number of Website Clicks: The number of clicks on the website.
 
-# of Searches: The number of searches conducted by users.
+Number of Searches: The number of searches conducted by users.
 
-# of View Content: The number of times users viewed specific content.
+Number of View Content: The number of times users viewed specific content.
 
-# of Add to Cart: The number of times users added items to their cart.
+Number of Add to Cart: The number of times users added items to their cart.
 
-# of Purchase: The number of purchases made.
+Number of Purchase: The number of purchases made.
 
 Analysis
 
