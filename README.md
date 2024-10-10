@@ -1,6 +1,7 @@
-# Website_A-B-testing
+# Best Campaign_A/B-testing
 
-This project explored two designation of website through number of clicks, number of purchases and so on.
+This project explored the outcomes of two campaigns through data from website such as number of clicks, number of purchases and so on.
+
 The data was loaded from Kaggle: https://www.kaggle.com/datasets/amirmotefaker/ab-testing-dataset/code
 
 The data from both groups contains the following columns:
